@@ -374,14 +374,17 @@ to create memory-aware AI travel experiences.
 
 <img width="1329" height="543" alt="image" src="https://github.com/user-attachments/assets/b8fb085e-2eee-468c-93cc-30b690547358" />
 ---
+
 ### Weather Intelligence
 
 <img width="1330" height="487" alt="image" src="https://github.com/user-attachments/assets/cff64f42-e5e5-4154-a31e-c9643a257976" />
 ---
+
 ### Map Intelligence
 
 <img width="1304" height="503" alt="image" src="https://github.com/user-attachments/assets/667d3d46-19d0-464c-9f7f-b9f094640389" />
 ---
+
 ### Navigation Intelligence
 
 <img width="1329" height="518" alt="image" src="https://github.com/user-attachments/assets/2d82e83d-47f6-4268-b651-0f8f0f3318b8" />
@@ -392,6 +395,7 @@ to create memory-aware AI travel experiences.
 
 <img width="1322" height="441" alt="image" src="https://github.com/user-attachments/assets/b55feb58-d59b-4518-a957-cb3074e98dd0" />
 ---
+
 ### Onboarding Workflow
 
 <img width="1320" height="449" alt="image" src="https://github.com/user-attachments/assets/f9e3a85c-b230-49c9-b4db-d6cd20a1ee7f" />
