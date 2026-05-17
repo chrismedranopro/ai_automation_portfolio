@@ -6,7 +6,7 @@
 
 # Overview
 
-TravelBuddy is an AI-powered Voice Travel Companion built to help travelers plan trips, discover destinations, book accommodations, explore activities, and receive personalized travel guidance through natural conversations.
+TravelBuddy is an AI-powered Voice Travel Companion built to help travelers plan trips, discover destinations, book accommodations, explore activities, navigate unfamiliar places, and receive personalized travel guidance through natural conversations.
 
 The platform was designed specifically for modern travelers who prefer conversational and AI-assisted travel planning instead of traditional search-heavy booking experiences.
 
@@ -16,6 +16,8 @@ Unlike standard travel chatbots, TravelBuddy combines:
 * real-time travel intelligence
 * workflow automation
 * CRM systems
+* memory-aware AI experiences
+* navigation intelligence
 * voice-first interaction concepts
 * multi-engine orchestration
 
@@ -32,6 +34,9 @@ The goal was to create a scalable AI travel system capable of:
 * recommending destinations based on weather, budget, comfort, and travel style
 * finding personalized accommodations
 * surfacing nearby activities and experiences
+* remembering previous trips and user travel behavior
+* helping users navigate destinations in real-time
+* discovering hidden gems and local places
 * handling travel workflows through modular AI engines
 * integrating CRM and automation systems
 * supporting future booking integrations
@@ -39,7 +44,7 @@ The goal was to create a scalable AI travel system capable of:
 The platform also needed to:
 
 * support Filipino travelers
-* feel conversational and friendly
+* feel conversational and human-like
 * reduce friction in travel planning
 * operate through scalable automation infrastructure
 
@@ -56,8 +61,11 @@ TravelBuddy uses multiple specialized AI intelligence workflows:
 * Flight Intelligence
 * Activities Intelligence
 * Nearby Search Intelligence
+* Navigation Intelligence
+* Map Intelligence
 * Personalization & Ranking Engine
 * Itinerary Builder Engine
+* Booking Awareness Engine
 
 Each intelligence module is designed as an independent workflow that communicates with the main orchestrator.
 
@@ -76,8 +84,56 @@ The AI analyzes:
 * destination context
 * comfort scoring
 * activity matching
+* previous travel history
+* historical user preferences
 
 to generate highly personalized travel recommendations.
+
+---
+
+## Memory-Aware AI Experience
+
+Implemented semantic memory systems using:
+
+* OpenAI embeddings
+* Supabase Vector Store
+* semantic retrieval workflows
+
+The platform can remember:
+
+* previous trips
+* favorite destinations
+* past accommodations
+* travel habits
+* recurring preferences
+* food preferences
+* past conversations
+* user experiences
+
+This enables TravelBuddy to provide more context-aware and personalized recommendations over time.
+
+Example:
+“You liked quiet mountain stays in Sagada before, so you may also enjoy this cabin stay in Bukidnon.”
+
+---
+
+## Active Booking Awareness
+
+Developed booking-awareness workflows capable of:
+
+* tracking active bookings
+* retrieving ongoing travel reservations
+* checking user trip context
+* surfacing upcoming travel schedules
+* referencing previous bookings during conversations
+
+Integrated using:
+
+* Supabase
+* semantic search pipelines
+* AI retrieval systems
+
+This enables more intelligent travel continuity across sessions.
 
 ---
 
@@ -89,10 +145,53 @@ The platform was designed around a conversational travel experience where users 
 * ask travel questions
 * request recommendations
 * discover destinations
+* navigate nearby places
+* retrieve trip information
 * plan trips conversationally
 
 Example:
 “Find me a quiet cabin stay in Tagaytay with mountain views and good WiFi.”
+
+---
+
+## Navigation Intelligence
+
+Built navigation-aware workflows capable of:
+
+* real-time directions support
+* nearby place discovery
+* route assistance
+* destination guidance
+* local navigation recommendations
+
+Integrated with:
+
+* Mapbox APIs
+* Google Maps systems
+* geolocation services
+
+This allows TravelBuddy to function not only as a planner but also as an active travel companion during trips.
+
+---
+
+## Map Intelligence & Hidden Gems Discovery
+
+Created map intelligence systems capable of:
+
+* discovering hidden gems
+* surfacing underrated destinations
+* finding local spots
+* nearby recommendations
+* contextual place exploration
+
+The AI combines:
+
+* geolocation data
+* nearby search systems
+* personalized preference matching
+* travel context awareness
+
+to provide highly contextual destination discovery.
 
 ---
 
@@ -165,6 +264,8 @@ The backend architecture was built using modular AI workflow orchestration.
 * personalization engines
 * structured output parsers
 * reusable workflow modules
+* semantic retrieval systems
+* vector memory pipelines
 
 The system uses:
 
@@ -173,6 +274,8 @@ The system uses:
 * reusable shared engines
 * normalization layers
 * AI rerankers
+* vector search memory
+* semantic recall systems
 
 to create scalable travel workflows.
 
@@ -205,64 +308,29 @@ Integrated GHL with:
 
 ---
 
-# Email & Communication Systems
+# Database & AI Memory Infrastructure
 
-## Resend
+## Supabase
 
-Used Resend for:
+Used Supabase for:
 
-* transactional emails
-* authentication flows
-* verification emails
-* travel-related notifications
+* booking awareness systems
+* vector embeddings storage
+* semantic search
+* AI memory persistence
+* user travel history
+* contextual retrieval systems
 
-## GoHighLevel
+## Embeddings & Semantic Search
 
-Used GHL for:
+Implemented:
 
-* marketing campaigns
-* nurture sequences
-* follow-up automations
-* customer engagement emails
+* OpenAI embeddings
+* vector similarity search
+* semantic memory retrieval
+* contextual recommendation recall
 
----
-
-# Security & Infrastructure
-
-## Infrastructure
-
-* Domain hosted via Hostinger
-* Self-hosted n8n infrastructure
-* GitHub-based development workflow
-
-## Secrets & Credential Management
-
-Used Bitwarden for:
-
-* environment variable management
-* credential storage
-* API key management
-* secure password handling
-
----
-
-# Frontend Development
-
-The frontend was rapidly prototyped using AI-assisted development workflows and later customized through direct GitHub development.
-
-## Frontend Stack
-
-* React
-* TypeScript
-* Lovable (AI-assisted UI scaffolding)
-* GitHub version control
-
-The development workflow focused on:
-
-* rapid MVP iteration
-* conversational UX
-* mobile-first responsiveness
-* modern SaaS UI patterns
+to create memory-aware AI travel experiences.
 
 ---
 
@@ -277,102 +345,36 @@ The development workflow focused on:
 * Google Maps
 * Booking-related APIs
 * Mapbox Geocoding
+* Supabase
 * Resend
 * GoHighLevel
 * n8n Webhooks
+---
+# Workflow Screenshots
+
+## Main Orchestrator Chat Workflow
+
+![Main Orchestrator](<img width="1262" height="519" alt="image" src="https://github.com/user-attachments/assets/ca860efd-8747-47b0-91b0-80f4f61bcde9" />)
 
 ---
 
-# Technical Highlights
+## Accommodation Intelligence
 
-## AI Features
-
-* intent extraction
-* structured AI outputs
-* semantic reranking
-* personalization scoring
-* weather intelligence
-* modular AI orchestration
-* recommendation systems
-* location normalization
-
-## Engineering Features
-
-* modular workflows
-* reusable engines
-* scalable orchestration
-* API normalization
-* structured parsers
-* automation pipelines
-* workflow branching
-* CRM integration
+![Accommodation Workflow](UPLOAD_LINK_HERE)
 
 ---
 
-# Outcome
+## Flight Intelligence
 
-TravelBuddy successfully evolved into a scalable AI-powered travel platform capable of:
-
-* conversational travel assistance
-* personalized recommendations
-* modular travel intelligence
-* CRM-powered engagement
-* automation-driven operations
-
-The project demonstrates practical implementation of:
-
-* AI engineering
-* workflow automation
-* CRM systems
-* API integrations
-* personalization systems
-* SaaS infrastructure
-* modern AI-assisted product development
+![Flight Workflow](UPLOAD_LINK_HERE)
 
 ---
 
-# Technologies Used
+## Activities Intelligence
 
-## Frontend
+![Activities Workflow](UPLOAD_LINK_HERE)
 
-* React
-* TypeScript
-* Lovable
 
-## Backend & Automation
 
-* n8n (Self-hosted)
-* Node.js
-* Webhooks
-* REST APIs
 
-## AI
 
-* OpenAI API
-* AI reranking systems
-* Structured AI extraction pipelines
-
-## CRM & Communication
-
-* GoHighLevel
-* Resend
-
-## Infrastructure & Security
-
-* Hostinger
-* GitHub
-* Bitwarden
-
-## Travel APIs
-
-* SerpAPI
-* Google Hotels
-* Google Flights
-* Google Maps
-* Mapbox APIs
-
----
-
-# Live Project
-
-🌐 gotravelbuddy.app
