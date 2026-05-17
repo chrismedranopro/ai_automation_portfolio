@@ -74,7 +74,9 @@ Working with:
 
 🌐 Live Project: gotravelbuddy.app
 Github link: 
-
+```
+https://github.com/chrismedranopro/ai_automation_portfolio/blob/5702879ebc869b1515ee88346aa87e3f245d4d5c/travelbuddy_voice_ai.md
+```
 TravelBuddy is an AI-powered Voice Travel Companion designed to help travelers plan trips conversationally using intelligent AI workflows and personalized travel recommendations.
 
 Unlike traditional travel chatbots, TravelBuddy combines:
