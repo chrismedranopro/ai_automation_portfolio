@@ -359,6 +359,7 @@ to create memory-aware AI travel experiences.
 ---
 
 ## Intelligences as AI Agent tools Workflows
+
 ### Accommodation Intelligence
 
 <img width="1280" height="500" alt="image" src="https://github.com/user-attachments/assets/e0531e58-6887-41cc-809b-a4babf250825" />
