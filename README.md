@@ -8,7 +8,7 @@ This repository contains selected projects focused on:
 * workflow orchestration
 * AI-powered SaaS systems
 * CRM implementation
-* conversational AI
+* conversational AI (Voice-AI)
 * API integrations
 * AI-assisted product development
 
@@ -22,11 +22,10 @@ The goal of this portfolio is to showcase real-world implementations of scalable
 
 Designing modular AI systems using:
 
-* n8n
+* n8n selfhosted
 * OpenAI APIs
 * webhook orchestration
 * structured AI pipelines
-* reusable automation engines
 
 ---
 
@@ -39,6 +38,7 @@ Building intelligent platforms capable of:
 * automation-driven workflows
 * CRM integrations
 * scalable AI orchestration
+* voice ai integration
 
 ---
 
@@ -73,6 +73,7 @@ Working with:
 # TravelBuddy — Voice AI Travel Companion
 
 🌐 Live Project: gotravelbuddy.app
+Github link: 
 
 TravelBuddy is an AI-powered Voice Travel Companion designed to help travelers plan trips conversationally using intelligent AI workflows and personalized travel recommendations.
 
@@ -84,6 +85,7 @@ Unlike traditional travel chatbots, TravelBuddy combines:
 * CRM integrations
 * real-time recommendation engines
 * conversational UX
+* voice ai integration
 
 into a scalable AI travel platform.
 
@@ -109,9 +111,9 @@ Built modular intelligence systems for:
 Developed using:
 
 * Self-hosted n8n
+* onenrouter API
 * OpenAI APIs
 * modular orchestration
-* reusable AI engines
 * structured parsers
 * normalization pipelines
 
@@ -132,12 +134,9 @@ Integrated:
 
 Managed using:
 
-* Hostinger
-* GitHub
-* Bitwarden
-* secure environment variable handling
-* API credential management
-
+* Hostinger - for domain hosting
+* GitHub - frontend  development customization and project documentation
+* Bitwarden - for password management, secure environment variable handling and API credential management
 ---
 
 # Frontend Development
@@ -150,7 +149,6 @@ Tech Stack:
 * TypeScript
 * Lovable
 * GitHub
-
 ---
 
 # Technologies Used
@@ -158,7 +156,8 @@ Tech Stack:
 ## AI & Automation
 
 * OpenAI API
-* n8n
+* n8n selfhosted
+* OpenRouter API
 * AI Reranking Systems
 * Structured Output Parsing
 
@@ -175,11 +174,14 @@ Tech Stack:
 * Google Maps
 * Mapbox APIs
 
-## Infrastructure
-
+## Infrasreacture
 * Hostinger
-* GitHub
+* Github
 * Bitwarden
+
+## Database
+
+* Supabase - Postgres SQL
 
 ---
 
