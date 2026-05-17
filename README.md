@@ -27,7 +27,7 @@ AI assistants and Voice AI experiences capable of:
 
 Automation systems using modular AI workflows and orchestration tools such as:
 
-* n8n (self-hosted)
+* n8n (Hostinger cloud-hosted)
 * OpenAI APIs
 * OpenRouter
 * webhooks
@@ -146,7 +146,7 @@ Built AI workflows capable of:
 
 Backend architecture built using:
 
-* self-hosted n8n
+* Hostinger cloud-hosted n8n
 * modular AI workflows
 * reusable AI engines
 * normalization pipelines
@@ -176,7 +176,8 @@ Managed using:
 * GitHub
 * Bitwarden
 * Supabase
-* self-hosted infrastructure
+* Cloud-hosted infrastructure
+* Google reCATPCHA v3
 
 ---
 
@@ -186,7 +187,7 @@ Managed using:
 
 * OpenAI API
 * OpenRouter API
-* n8n (Self-hosted)
+* n8n (Hostinger Cloud-hosted)
 * AI reranking systems
 * semantic retrieval systems
 * embeddings pipelines
