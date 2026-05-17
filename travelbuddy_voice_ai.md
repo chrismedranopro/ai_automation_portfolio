@@ -64,7 +64,7 @@ TravelBuddy uses multiple specialized AI intelligence workflows:
 * Navigation Intelligence
 * Map Intelligence
 * Personalization & Ranking Engine
-* Itinerary Builder Engine
+* Past trips and experiences memory
 * Booking Awareness Engine
 
 Each intelligence module is designed as an independent workflow that communicates with the main orchestrator.
@@ -260,10 +260,8 @@ The backend architecture was built using modular AI workflow orchestration.
 * n8n (Self-hosted)
 * OpenAI APIs
 * AI extractor pipelines
-* ranking engines
 * personalization engines
 * structured output parsers
-* reusable workflow modules
 * semantic retrieval systems
 * vector memory pipelines
 
@@ -271,7 +269,6 @@ The system uses:
 
 * parent orchestrators
 * specialized intelligence tools
-* reusable shared engines
 * normalization layers
 * AI rerankers
 * vector search memory
@@ -339,6 +336,7 @@ to create memory-aware AI travel experiences.
 ## Integrated Services
 
 * OpenAI API
+* ElevenLabs API
 * SerpAPI
 * Google Hotels
 * Google Flights
@@ -355,25 +353,54 @@ to create memory-aware AI travel experiences.
 ## Main Orchestrator Chat Workflow
 
 <img width="1262" height="519" alt="Main Orchestrator" src="https://github.com/user-attachments/assets/ca860efd-8747-47b0-91b0-80f4f61bcde9" />
----
 
-## Accommodation Intelligence
-
-![Accommodation Workflow](UPLOAD_LINK_HERE)
+<img width="1318" height="561" alt="image" src="https://github.com/user-attachments/assets/de7d08fd-8572-4b12-9260-2f3904f9b4ae" />
 
 ---
 
-## Flight Intelligence
+## Intelligences as AI Agent tools Workflows
+### Accommodation Intelligence
 
-![Flight Workflow](UPLOAD_LINK_HERE)
-
+<img width="1280" height="500" alt="image" src="https://github.com/user-attachments/assets/e0531e58-6887-41cc-809b-a4babf250825" />
 ---
 
-## Activities Intelligence
+### Flight Intelligence
 
-![Activities Workflow](UPLOAD_LINK_HERE)
+<img width="1292" height="514" alt="image" src="https://github.com/user-attachments/assets/2e7f5a76-31b0-43e0-91cc-6f4bf9314e27" />
+---
 
+### Activities Intelligence
 
+<img width="1329" height="543" alt="image" src="https://github.com/user-attachments/assets/b8fb085e-2eee-468c-93cc-30b690547358" />
+---
+### Weather Intelligence
 
+<img width="1330" height="487" alt="image" src="https://github.com/user-attachments/assets/cff64f42-e5e5-4154-a31e-c9643a257976" />
+---
+### Map Intelligence
 
+<img width="1304" height="503" alt="image" src="https://github.com/user-attachments/assets/667d3d46-19d0-464c-9f7f-b9f094640389" />
+---
+### Navigation Intelligence
 
+<img width="1329" height="518" alt="image" src="https://github.com/user-attachments/assets/2d82e83d-47f6-4268-b651-0f8f0f3318b8" />
+---
+
+## Frontend Workflows
+### Signup Workflow
+
+<img width="1322" height="441" alt="image" src="https://github.com/user-attachments/assets/b55feb58-d59b-4518-a957-cb3074e98dd0" />
+---
+### Onboarding Workflow
+
+<img width="1320" height="449" alt="image" src="https://github.com/user-attachments/assets/f9e3a85c-b230-49c9-b4db-d6cd20a1ee7f" />
+---
+
+## Error Handling Workflow
+
+<img width="1327" height="519" alt="image" src="https://github.com/user-attachments/assets/d6c1f416-0d07-47a0-add4-3f296feedbac" />
+---
+
+# Author
+CHRISTINA MEDRANO
+Voice-AI Specialist & AI Automation Specialist
