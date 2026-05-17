@@ -354,8 +354,7 @@ to create memory-aware AI travel experiences.
 
 ## Main Orchestrator Chat Workflow
 
-![Main Orchestrator](<img width="1262" height="519" alt="image" src="https://github.com/user-attachments/assets/ca860efd-8747-47b0-91b0-80f4f61bcde9" />)
-
+<img width="1262" height="519" alt="Main Orchestrator" src="https://github.com/user-attachments/assets/ca860efd-8747-47b0-91b0-80f4f61bcde9" />
 ---
 
 ## Accommodation Intelligence
