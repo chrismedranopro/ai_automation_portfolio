@@ -73,6 +73,7 @@ Working with:
 ## TravelBuddy — Voice AI Travel Companion
 
 🌐 Live Demo: [gotravelbuddy.app](https://gotravelbuddy.app)
+
 📄 [Full Project Overview](https://github.com/chrismedranopro/ai_automation_portfolio/blob/main/travelbuddy_voice_ai.md)
 TravelBuddy is an AI-powered Voice Travel Companion designed to help travelers plan trips conversationally using intelligent AI workflows and personalized travel recommendations.
 
