@@ -1,155 +1,183 @@
-# Conversational AI, AI Automation & AI Systems Portfolio
+# AI Automation & Conversational AI Portfolio
 
-Welcome to my AI Automation Portfolio.
+Welcome to my portfolio repository.
 
-This repository contains selected projects focused on:
+This repository contains real-world AI automation systems, conversational AI projects, CRM implementations, and intelligent workflow architectures built for modern businesses and SaaS platforms.
 
-* AI automation
-* workflow orchestration
-* AI-powered SaaS systems
-* CRM implementation
-* conversational AI (Voice-AI)
-* API integrations
-* AI-assisted product development
-
-The goal of this portfolio is to showcase real-world implementations of scalable AI systems built using modern automation tools, APIs, and AI workflows.
+The focus of my work is building practical AI systems that improve user experience, automate operations, and create scalable AI-powered products.
 
 ---
 
-# Core Focus Areas
+# What I Build
+
+## Conversational AI Systems
+
+AI assistants and Voice AI experiences capable of:
+
+* natural conversations
+* intelligent recommendations
+* contextual memory
+* workflow orchestration
+* personalized experiences
+* real-time AI assistance
+
+---
 
 ## AI Workflow Automation
 
-Designing modular AI systems using:
+Automation systems using modular AI workflows and orchestration tools such as:
 
-* n8n selfhosted
+* n8n (self-hosted)
 * OpenAI APIs
-* webhook orchestration
+* OpenRouter
+* webhooks
 * structured AI pipelines
-
----
-
-## AI-Powered SaaS Systems
-
-Building intelligent platforms capable of:
-
-* conversational experiences
-* personalized recommendations
-* automation-driven workflows
-* CRM integrations
-* scalable AI orchestration
-* voice ai integration
+* AI extraction systems
+* semantic retrieval systems
 
 ---
 
 ## CRM & Marketing Automation
 
-Implementing automation ecosystems using:
+Business automation ecosystems using:
 
 * GoHighLevel (GHL)
-* workflow automations
 * lead pipelines
-* nurture sequences
-* customer engagement systems
+* automated follow-ups
+* customer segmentation
+* email automations
+* workflow triggers
+* lifecycle automation systems
 
 ---
 
-## API Integrations
+## AI-Powered SaaS Platforms
 
-Working with:
+Scalable SaaS products integrating:
 
-* travel APIs
-* Google services
-* geolocation APIs
-* AI APIs
-* email infrastructure
-* booking systems
-* search engines
+* conversational AI
+* personalization engines
+* recommendation systems
+* travel intelligence
+* semantic memory
+* vector databases
+* API orchestration
+* AI-powered search systems
 
 ---
 
-# Featured Project
+# Featured Projects
 
-## TravelBuddy — Voice AI Travel Companion
+# 1. TravelBuddy — Voice AI Travel Companion
 
 🌐 Live Demo: [gotravelbuddy.app](https://gotravelbuddy.app)
 
-📄 [Full Project Overview](https://github.com/chrismedranopro/ai_automation_portfolio/blob/main/travelbuddy_voice_ai.md)
+📄 Full Project Overview:  
+[TravelBuddy Full Documentation](./travelbuddy_voice_ai.md)
 
-TravelBuddy is an AI-powered Voice Travel Companion designed to help travelers plan trips conversationally using intelligent AI workflows and personalized travel recommendations.
+TravelBuddy is a Voice AI-powered travel companion designed to help users plan trips conversationally using intelligent AI workflows, semantic memory, personalization systems, and travel intelligence engines.
 
-Unlike traditional travel chatbots, TravelBuddy combines:
-
-* AI personalization
-* travel intelligence systems
-* workflow automation
-* CRM integrations
-* real-time recommendation engines
-* conversational UX
-* voice ai integration
-
-into a scalable AI travel platform.
+Unlike traditional travel chatbots, TravelBuddy behaves more like an AI travel companion capable of understanding preferences, remembering travel history, and helping users throughout the entire travel journey.
 
 ---
 
-# Project Highlights
+## Key Features
 
-## AI Travel Intelligence
+### Voice AI Travel Assistance
 
-Built modular intelligence systems for:
+Users can:
 
-* Weather Recommendations
-* Accommodation Recommendations
-* Flight Intelligence
-* Activities & Tours Intelligence
-* Nearby Search Intelligence
-* AI Personalization & Ranking
+* speak naturally
+* ask travel questions
+* get destination recommendations
+* discover nearby places
+* retrieve travel information
+* navigate destinations
+* receive personalized suggestions
 
 ---
 
-## Workflow Automation Architecture
+### AI Travel Intelligence
 
-Developed using:
+Built modular AI intelligence systems for:
 
-* Self-hosted n8n
-* onenrouter API
-* OpenAI APIs
-* modular orchestration
-* structured parsers
+* accommodation recommendations
+* flight recommendations
+* activities & tours
+* nearby discovery
+* weather intelligence
+* navigation assistance
+* hidden gems discovery
+* itinerary intelligence
+
+---
+
+### Memory-Aware AI
+
+Implemented semantic memory using:
+
+* OpenAI embeddings
+* Supabase Vector Store
+* semantic retrieval systems
+
+The AI can remember:
+
+* previous trips
+* travel preferences
+* favorite destinations
+* past conversations
+* user experiences
+* recurring travel behavior
+
+---
+
+### Active Booking Awareness
+
+Built AI workflows capable of:
+
+* retrieving active bookings
+* checking ongoing trips
+* surfacing travel schedules
+* referencing user reservations contextually
+
+---
+
+### AI Workflow Orchestration
+
+Backend architecture built using:
+
+* self-hosted n8n
+* modular AI workflows
+* reusable AI engines
 * normalization pipelines
+* orchestration systems
+* AI reranking systems
 
 ---
 
-## CRM & Marketing Systems
+### CRM & Marketing Automation
 
 Integrated:
 
 * GoHighLevel (GHL)
 * Resend
-* automated email workflows
-* customer lifecycle automations
+* automated email systems
+* onboarding workflows
+* lifecycle automations
+* customer engagement pipelines
 
 ---
 
-## Infrastructure & Security
+### Infrastructure & Security
 
 Managed using:
 
-* Hostinger - for domain hosting
-* GitHub - frontend  development customization and project documentation
-* Bitwarden - for password management, secure environment variable handling and API credential management
----
-
-# Frontend Development
-
-The frontend was rapidly prototyped using AI-assisted development workflows and further customized through GitHub-based development.
-
-Tech Stack:
-
-* React
-* TypeScript
-* Lovable
+* Hostinger
 * GitHub
+* Bitwarden
+* Supabase
+* self-hosted infrastructure
+
 ---
 
 # Technologies Used
@@ -157,49 +185,67 @@ Tech Stack:
 ## AI & Automation
 
 * OpenAI API
-* n8n selfhosted
 * OpenRouter API
-* AI Reranking Systems
-* Structured Output Parsing
+* n8n (Self-hosted)
+* AI reranking systems
+* semantic retrieval systems
+* embeddings pipelines
 
-## CRM & Communication
+---
 
-* GoHighLevel
+## Voice & Communication
+
+* ElevenLabs API
 * Resend
+* GoHighLevel (GHL)
 
-## APIs
+---
+
+## Frontend
+
+* React
+* TypeScript
+* Lovable
+* GitHub
+
+---
+
+## Database & Memory
+
+* Supabase
+* PostgreSQL
+* Supabase Vector Store
+
+---
+
+## APIs & Services
 
 * SerpAPI
 * Google Hotels
 * Google Flights
 * Google Maps
 * Mapbox APIs
-
-## Infrasreacture
-* Hostinger
-* Github
-* Bitwarden
-
-## Database
-
-* Supabase - Postgres SQL
+* Booking-related APIs
 
 ---
 
-# About This Repository
+# Portfolio Goals
 
-This repository serves as a collection of:
+This repository showcases my experience in:
 
-* AI automation projects
-* workflow systems
-* SaaS implementations
-* AI engineering experiments
-* automation architecture samples
+* AI automation
+* conversational AI
+* Voice AI systems
+* workflow orchestration
+* CRM implementation
+* AI-powered SaaS development
+* semantic memory systems
+* personalization engines
+* API integrations
+* automation infrastructure
 
-More projects will be added over time.
-
+More projects and case studies will be added over time.
 ---
-
 # Contact
 
 For collaborations, freelance opportunities, or AI automation projects, feel free to connect.
@@ -219,3 +265,4 @@ www.linkedin.com/in/christina-medrano-voiceaispecialist
 
 # Author
 CHRISTINA MEDRANO
+Voice AI Specialist • AI Automation Specialist
