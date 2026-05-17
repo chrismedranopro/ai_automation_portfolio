@@ -403,4 +403,5 @@ to create memory-aware AI travel experiences.
 
 # Author
 CHRISTINA MEDRANO
-Voice-AI Specialist & AI Automation Specialist
+
+Voice AI Specialist • AI Automation Specialist
