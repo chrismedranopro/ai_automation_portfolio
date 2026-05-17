@@ -257,7 +257,7 @@ The backend architecture was built using modular AI workflow orchestration.
 
 ## Workflow Stack
 
-* n8n (Self-hosted)
+* n8n (Hostinger cloud-hosted)
 * OpenAI APIs
 * AI extractor pipelines
 * personalization engines
