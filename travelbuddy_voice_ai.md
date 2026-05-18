@@ -249,6 +249,19 @@ Integrated with:
 * location geocoding systems
 * AI preference ranking
 
+## Weather Intelligence
+Built a dedicated weather intelligence capable of:
+
+* recommendation for weather-based trip plan
+* weather awareness in specified places
+
+Integrated with:
+
+* WeatherAPI
+* MapBox Location Geocode API
+* MapBox Location Search API
+* AI Preference reranking recommendation
+
 ---
 
 # AI Workflow Architecture
@@ -342,7 +355,8 @@ to create memory-aware AI travel experiences.
 * Google Flights
 * Google Maps
 * Booking-related APIs
-* Mapbox Geocoding
+* Mapbox Geocoding API
+* Mapbox Search API
 * Supabase
 * Resend
 * GoHighLevel
