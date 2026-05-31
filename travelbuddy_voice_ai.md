@@ -60,7 +60,7 @@ The platform also needed to:
 
 
 ## LogIn Page
-
+<img width="1360" height="675" alt="image" src="https://github.com/user-attachments/assets/c7e64047-c34e-4e4d-b95f-a90a7652e168" />
 
 ## Home Navigation
 <img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/a1d20b7d-2667-461a-9788-83bd86b2e435" />
