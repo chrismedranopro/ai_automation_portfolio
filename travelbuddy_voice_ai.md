@@ -150,7 +150,7 @@ The platform was designed around a conversational travel experience where users 
 * plan trips conversationally
 
 Example:
-“Find me a quiet cabin stay in Tagaytay with mountain views and good WiFi.”
+“Find me a quiet cabin stay in Tagaytay.”
 
 ---
 
@@ -191,7 +191,7 @@ The AI combines:
 * personalized preference matching
 * travel context awareness
 
-to provide highly contextual destination discovery.
+This allows TravelBuddy to provide highly contextual destination discovery for the user.
 
 ---
 
@@ -248,6 +248,7 @@ Integrated with:
 * SerpAPI
 * location geocoding systems
 * AI preference ranking
+---
 
 ## Weather Intelligence
 Built a dedicated weather intelligence capable of:
@@ -270,7 +271,7 @@ The backend architecture was built using modular AI workflow orchestration.
 
 ## Workflow Stack
 
-* n8n (Hostinger cloud-hosted)
+* n8n (Hostinger cloud-hosted/selfHosted)
 * OpenAI APIs
 * AI extractor pipelines
 * personalization engines
@@ -280,7 +281,7 @@ The backend architecture was built using modular AI workflow orchestration.
 
 The system uses:
 
-* parent orchestrators
+* parent orchestrator
 * specialized intelligence tools
 * normalization layers
 * AI rerankers
@@ -303,7 +304,6 @@ Implemented GoHighLevel (GHL) as the centralized CRM and automation platform pow
 * workflow automations
 * marketing automation
 * pipeline management
-* inquiry routing
 * customer lifecycle workflows
 
 ## Automation Integrations
@@ -373,11 +373,15 @@ to create memory-aware AI travel experiences.
 ---
 
 ## Intelligences as AI Agent tools Workflows
+### Travel Planner Engine
+
+
 
 ### Accommodation Intelligence
 
 <img width="1280" height="500" alt="image" src="https://github.com/user-attachments/assets/e0531e58-6887-41cc-809b-a4babf250825" />
 
+Node by node configuration: 
 ---
 
 ### Flight Intelligence
@@ -408,6 +412,7 @@ to create memory-aware AI travel experiences.
 
 <img width="1329" height="518" alt="image" src="https://github.com/user-attachments/assets/2d82e83d-47f6-4268-b651-0f8f0f3318b8" />
 
+Node by node configuration: docs/n8n_workflows/tools_navigation_intelligence.md
 ---
 
 ## Frontend Workflows
