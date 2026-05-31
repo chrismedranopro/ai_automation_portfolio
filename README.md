@@ -70,7 +70,7 @@ Scalable SaaS products integrating:
 
 # 1. TravelBuddy — Voice AI Travel Companion
 
-🌐 Live Demo: [gotravelbuddy.app](https://gotravelbuddy.app)
+🌐 Live: [gotravelbuddy.app](https://gotravelbuddy.app)
 
 📄 Full Project Overview:  
 [TravelBuddy Full Documentation](./travelbuddy_voice_ai.md)
