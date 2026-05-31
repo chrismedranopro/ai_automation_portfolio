@@ -57,7 +57,7 @@ The platform also needed to:
 ## SignUp Page
 <img width="1359" height="686" alt="image" src="https://github.com/user-attachments/assets/4fac0cb1-f740-4aed-88c9-7e1fa6160215" />
 
-
+<img width="1351" height="686" alt="image" src="https://github.com/user-attachments/assets/2ca5ab6c-04b2-441a-87fd-7ff47a8cc08b" />
 
 ## LogIn Page
 <img width="1360" height="675" alt="image" src="https://github.com/user-attachments/assets/c7e64047-c34e-4e4d-b95f-a90a7652e168" />
