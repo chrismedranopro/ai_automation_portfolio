@@ -47,6 +47,38 @@ The platform also needed to:
 * feel conversational and human-like
 * reduce friction in travel planning
 * operate through scalable automation infrastructure
+---
+# Frontend Features
+## Landing Page
+<img width="1363" height="679" alt="image" src="https://github.com/user-attachments/assets/76783006-9c95-4210-a91c-7efcbafd7250" />
+
+<img width="1365" height="683" alt="image" src="https://github.com/user-attachments/assets/312f4b1a-dbeb-470b-921d-9b9874b87984" />
+
+## SignUp Page
+<img width="1359" height="686" alt="image" src="https://github.com/user-attachments/assets/4fac0cb1-f740-4aed-88c9-7e1fa6160215" />
+
+
+
+## LogIn Page
+
+
+## Home Navigation
+<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/a1d20b7d-2667-461a-9788-83bd86b2e435" />
+
+<img width="1361" height="688" alt="image" src="https://github.com/user-attachments/assets/f9061f28-ed3d-462e-80cc-fddaccce5ebe" />
+
+## Chat Navigation
+<img width="1365" height="685" alt="image" src="https://github.com/user-attachments/assets/99fb7ae5-c913-457b-b65a-587b29b3cac5" />
+
+## MyTrips Navigation
+<img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/f0a419b2-81fe-4461-9e7a-dcaa19a9040b" />
+
+<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/2656a13c-2456-4c8f-9276-13adf8a8cc2f" />
+
+<img width="1365" height="673" alt="image" src="https://github.com/user-attachments/assets/5993b704-9d40-4823-9b45-2071cf7be4cb" />
+
+## Profile
+<img width="1365" height="686" alt="image" src="https://github.com/user-attachments/assets/3fb8645e-1796-4816-b146-10eb83b05fcb" />
 
 ---
 
