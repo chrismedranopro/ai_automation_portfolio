@@ -1,6 +1,6 @@
 # TravelBuddy — Voice AI Travel Companion
 
-🌐 Live Demo: [gotravelbuddy.app](https://gotravelbuddy.app)
+🌐 Live: [gotravelbuddy.app](https://gotravelbuddy.app)
 
 ---
 
