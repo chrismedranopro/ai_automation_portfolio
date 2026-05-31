@@ -412,7 +412,7 @@ Node by node configuration:
 
 <img width="1329" height="518" alt="image" src="https://github.com/user-attachments/assets/2d82e83d-47f6-4268-b651-0f8f0f3318b8" />
 
-Node by node configuration: docs/n8n_workflows/tools_navigation_intelligence.md
+Node by node configuration: [docs/n8n_workflows/tools_navigation_intelligence.md](https://github.com/chrismedranopro/travelbuddy/blob/491b765afb1270774c2980d46e7d3956f7a3fd39/docs/n8n_workflows/tools_navigation_intelligence.md)
 ---
 
 ## Frontend Workflows
