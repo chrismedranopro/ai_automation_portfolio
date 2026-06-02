@@ -91,15 +91,15 @@ Rather than functioning as a traditional search engine, TravelBuddy acts as an i
 
 ## Conversational Travel Experience
 
-<img width="796" height="921" alt="preview--gotravelbuddy lovable app_trips (2)" src="https://github.com/user-attachments/assets/54d33596-7411-44b6-8dcb-fb2704772603" />
+<img width="1115" height="633" alt="preview--gotravelbuddy lovable app_app" src="https://github.com/user-attachments/assets/bc3db792-d1f3-4a61-a21b-f7f4cd8478eb" />
 
 ## My Trips Dashboard
 
-<img width="811" height="913" alt="preview--gotravelbuddy lovable app_trips" src="https://github.com/user-attachments/assets/5213b4b5-09c8-465f-9e9a-b45e253bbd9f" />
+<img width="1365" height="555" alt="image" src="https://github.com/user-attachments/assets/f39c1cbb-b443-45e6-8202-0c0bf616fbe2" />
 
 ## User Profile & Personalization
 
-<img width="796" height="921" alt="preview--gotravelbuddy lovable app_trips (2)" src="https://github.com/user-attachments/assets/21e21f64-b111-4207-ac36-764a8e6d516b" />
+<img width="1361" height="555" alt="image" src="https://github.com/user-attachments/assets/e86dd4b1-241d-470e-a85e-fa8f0a64a2de" />
 
 ---
 
