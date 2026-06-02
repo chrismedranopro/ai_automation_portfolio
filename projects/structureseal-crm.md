@@ -336,7 +336,7 @@ Rather than starting with technology, I started with business problems and desig
 
 ## Dashboard
 
-![Dashboard](docs/screenshots/dashboard.png)
+<img width="807" height="1529" alt="structureseal-ai vercel app_" src="https://github.com/user-attachments/assets/2d1f7027-d24b-4d5f-ae55-713b4e6378e5" />
 
 Executive dashboard providing visibility into revenue, active opportunities, conversion metrics, and operational performance.
 
