@@ -336,7 +336,7 @@ Rather than starting with technology, I started with business problems and desig
 
 ## Dashboard
 
-<img width="807" height="1529" alt="structureseal-ai vercel app_" src="https://github.com/user-attachments/assets/2d1f7027-d24b-4d5f-ae55-713b4e6378e5" />
+<img width="1111" height="1452" alt="structureseal-ai vercel app_ (7)" src="https://github.com/user-attachments/assets/bc972e56-fdb3-4701-bdd8-b19def4e4a76" />
 
 Executive dashboard providing visibility into revenue, active opportunities, conversion metrics, and operational performance.
 
@@ -344,7 +344,7 @@ Executive dashboard providing visibility into revenue, active opportunities, con
 
 ## Leads Pipeline
 
-<img width="806" height="831" alt="structureseal-ai vercel app_ (4)" src="https://github.com/user-attachments/assets/82dea752-5161-40dd-9200-055f672a1580" />
+<img width="1361" height="555" alt="image" src="https://github.com/user-attachments/assets/b36d203c-5c58-4de0-a528-cbd69a2e489b" />
 
 Visual lead management workflow designed to improve pipeline visibility and customer follow-up processes.
 
@@ -352,7 +352,7 @@ Visual lead management workflow designed to improve pipeline visibility and cust
 
 ## AI Quote Generator
 
-<img width="811" height="633" alt="structureseal-ai vercel app_ (5)" src="https://github.com/user-attachments/assets/0fc98bc4-cb67-4a41-b975-dd1c3bb363f7" />
+<img width="1115" height="633" alt="structureseal-ai vercel app_ (9)" src="https://github.com/user-attachments/assets/1c3d3241-592d-4471-ba02-7cceaca7513a" />
 
 AI-assisted quote generation workflow designed to reduce administrative workload and improve proposal consistency.
 
@@ -360,7 +360,7 @@ AI-assisted quote generation workflow designed to reduce administrative workload
 
 ## Missed Call Recovery
 
-<img width="796" height="1340" alt="structureseal-ai vercel app_ (6)" src="https://github.com/user-attachments/assets/72545d97-b40a-43a3-a395-4813caa46a9f" />
+<img width="1100" height="1076" alt="structureseal-ai vercel app_ (8)" src="https://github.com/user-attachments/assets/89ba9eaf-23e4-4f2e-8bbb-e2dec9f1570a" />
 
 Missed call recovery workflow concept designed to convert lost enquiries into qualified sales opportunities.
 
