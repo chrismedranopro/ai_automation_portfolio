@@ -344,7 +344,7 @@ Executive dashboard providing visibility into revenue, active opportunities, con
 
 ## Leads Pipeline
 
-![Lead Pipeline](docs/screenshots/leads-pipeline.png)
+<img width="806" height="831" alt="structureseal-ai vercel app_ (4)" src="https://github.com/user-attachments/assets/82dea752-5161-40dd-9200-055f672a1580" />
 
 Visual lead management workflow designed to improve pipeline visibility and customer follow-up processes.
 
@@ -352,7 +352,7 @@ Visual lead management workflow designed to improve pipeline visibility and cust
 
 ## AI Quote Generator
 
-![AI Quote Generator](docs/screenshots/ai-quotes.png)
+<img width="811" height="633" alt="structureseal-ai vercel app_ (5)" src="https://github.com/user-attachments/assets/0fc98bc4-cb67-4a41-b975-dd1c3bb363f7" />
 
 AI-assisted quote generation workflow designed to reduce administrative workload and improve proposal consistency.
 
@@ -360,7 +360,7 @@ AI-assisted quote generation workflow designed to reduce administrative workload
 
 ## Missed Call Recovery
 
-![Missed Call Recovery](docs/screenshots/missed-calls.png)
+<img width="796" height="1340" alt="structureseal-ai vercel app_ (6)" src="https://github.com/user-attachments/assets/72545d97-b40a-43a3-a395-4813caa46a9f" />
 
 Missed call recovery workflow concept designed to convert lost enquiries into qualified sales opportunities.
 
