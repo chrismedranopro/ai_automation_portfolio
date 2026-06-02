@@ -72,16 +72,21 @@ My experience spans construction operations, hospitality and travel technology, 
 
 ## StructureSeal AI CRM
 
-Construction-focused CRM and workflow management prototype designed to centralize lead management, quoting, project tracking, client communication, and operational visibility.
+Construction-focused CRM and operational workflow platform designed to manage the complete customer journey from lead capture through project delivery.
+
+The platform combines AI-powered intake, missed-call recovery, lead management, quoting workflows, project tracking, and operational reporting into a centralized system built specifically for trades and construction businesses.
 
 ### Key Areas
 
 - CRM Architecture
 - Workflow Design
-- AI-Assisted Quoting
+- AI-Powered Lead Intake
+- Missed Call Recovery
+- AI-Assisted Quote Generation
 - Project Tracking
 - Operational Dashboards
 - Construction Process Mapping
+- Customer Lifecycle Management
 
 ### Live Demo
 
