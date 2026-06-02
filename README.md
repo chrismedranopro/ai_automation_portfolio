@@ -248,7 +248,7 @@ Operational reporting and tracking system developed within an active constructio
 
 # Professional Philosophy
 
-Technology should support operations—not complicate them.
+Technology should support operations, not complicate them.
 
 The best systems are practical, easy to adopt, and designed around how people actually work. My approach focuses on understanding business needs first, then implementing automation and AI solutions that create measurable improvements without unnecessary complexity.
 
