@@ -1,270 +1,295 @@
-# AI Automation & Conversational AI Portfolio
+# Christina Medrano
 
-Welcome to my portfolio repository.
+## Operations, Automation & AI Systems Specialist
 
-This repository contains real-world AI automation systems, conversational AI projects, CRM implementations, and intelligent workflow architectures built for modern businesses and SaaS platforms.
+Operational problems are rarely technology problems.
 
-The focus of my work is building practical AI systems that improve user experience, automate operations, and create scalable AI-powered products.
+They're usually workflow problems.
 
----
+As businesses grow, information becomes fragmented across spreadsheets, emails, chat messages, disconnected software, and manual processes. Teams spend more time chasing information, duplicating work, and managing administration than focusing on meaningful outcomes.
 
-# What I Build
+My work focuses on understanding how businesses operate, identifying bottlenecks, and implementing practical automation and AI systems that improve efficiency, visibility, customer experience, and day-to-day operations.
 
-## Conversational AI Systems
-
-AI assistants and Voice AI experiences capable of:
-
-* natural conversations
-* intelligent recommendations
-* contextual memory
-* workflow orchestration
-* personalized experiences
-* real-time AI assistance
+My experience spans construction operations, hospitality and travel technology, service-based businesses, CRM systems, reporting workflows, customer experience design, and AI-powered business automation.
 
 ---
 
-## AI Workflow Automation
+# What I Bring to the Table
 
-Automation systems using modular AI workflows and orchestration tools such as:
+## Workflow Analysis & Process Improvement
 
-* n8n (Hostinger cloud-hosted)
-* OpenAI APIs
-* OpenRouter
-* webhooks
-* structured AI pipelines
-* AI extraction systems
-* semantic retrieval systems
+- Analyze existing workflows and business processes
+- Identify bottlenecks, inefficiencies, and repetitive tasks
+- Design scalable systems that support business growth
+- Improve visibility, accountability, and communication
+- Standardize processes through documentation and SOPs
+- Reduce administrative workload through practical automation
 
----
+## Automation & AI Integration
 
-## CRM & Marketing Automation
+- Business Process Automation
+- AI-Powered Workflows
+- Conversational AI Systems
+- Voice AI Implementations
+- Workflow Orchestration
+- AI-Assisted Customer Experiences
+- Lead Qualification Automation
+- Reporting & Notification Systems
 
-Business automation ecosystems using:
+## CRM & Business Systems
 
-* GoHighLevel (GHL)
-* lead pipelines
-* automated follow-ups
-* customer segmentation
-* email automations
-* workflow triggers
-* lifecycle automation systems
+- Lead Management Workflows
+- Customer Onboarding Systems
+- Pipeline Automation
+- Follow-Up Automation
+- Customer Communication Workflows
+- Operational Dashboards
+- Reporting Systems
+- CRM Optimization
 
----
+## Operations & Reporting
 
-## AI-Powered SaaS Platforms
-
-Scalable SaaS products integrating:
-
-* conversational AI
-* personalization engines
-* recommendation systems
-* travel intelligence
-* semantic memory
-* vector databases
-* API orchestration
-* AI-powered search systems
+- KPI Reporting Systems
+- Operational Tracking
+- SOP Development
+- Process Documentation
+- Workflow Standardization
+- Cross-Functional Coordination
+- Business Process Mapping
 
 ---
 
 # Featured Projects
 
-# 1. TravelBuddy — Voice AI Travel Companion
-
-🌐 Live: [gotravelbuddy.app](https://gotravelbuddy.app)
-
-📄 Full Project Overview:  
-[TravelBuddy Full Documentation](./travelbuddy_voice_ai.md)
-
-TravelBuddy is a Voice AI-powered travel companion designed to help users plan trips conversationally using intelligent AI workflows, semantic memory, personalization systems, and travel intelligence engines.
-
-Unlike traditional travel chatbots, TravelBuddy behaves more like an AI travel companion capable of understanding preferences, remembering travel history, and helping users throughout the entire travel journey.
+| Project | Industry | Focus |
+|----------|----------|----------|
+| StructureSeal AI CRM | Construction | CRM & Workflow Design |
+| TravelBuddy | Hospitality & Travel | Conversational AI & Automation |
+| Tradie Web Mate | Trades & Services | Lead Automation |
+| Construction Operations Reporting System | Construction | Operations & Reporting |
 
 ---
 
-## Key Features
+## StructureSeal AI CRM
 
-### Voice AI Travel Assistance
+Construction-focused CRM and workflow management prototype designed to centralize lead management, quoting, project tracking, client communication, and operational visibility.
 
-Users can:
+### Key Areas
 
-* speak naturally
-* ask travel questions
-* get destination recommendations
-* discover nearby places
-* retrieve travel information
-* navigate destinations
-* receive personalized suggestions
+- CRM Architecture
+- Workflow Design
+- AI-Assisted Quoting
+- Project Tracking
+- Operational Dashboards
+- Construction Process Mapping
 
----
+### Live Demo
 
-### AI Travel Intelligence
+https://structureseal-ai.vercel.app/
 
-Built modular AI intelligence systems for:
+### Detailed Case Study
 
-* accommodation recommendations
-* flight recommendations
-* activities & tours
-* nearby discovery
-* weather intelligence
-* navigation assistance
-* hidden gems discovery
-* itinerary intelligence
+[View Full Project Documentation](./projects/structureseal-crm.md)
 
 ---
 
-### Memory-Aware AI
+## TravelBuddy
 
-Implemented semantic memory using:
+AI-powered travel companion designed to improve trip planning through conversational experiences, workflow automation, personalization, and intelligent travel assistance.
 
-* OpenAI embeddings
-* Supabase Vector Store
-* semantic retrieval systems
+### Key Areas
 
-The AI can remember:
+- Conversational AI
+- Workflow Automation
+- Customer Experience Design
+- Personalization Systems
+- Semantic Memory
+- CRM & Engagement Workflows
+- AI-Powered Recommendations
 
-* previous trips
-* travel preferences
-* favorite destinations
-* past conversations
-* user experiences
-* recurring travel behavior
+### Live Demo
 
----
+https://gotravelbuddy.app/
 
-### Active Booking Awareness
+### Detailed Case Study
 
-Built AI workflows capable of:
-
-* retrieving active bookings
-* checking ongoing trips
-* surfacing travel schedules
-* referencing user reservations contextually
+[View Full Project Documentation](./projects/travelbuddy.md)
 
 ---
 
-### AI Workflow Orchestration
+## Tradie Web Mate
 
-Backend architecture built using:
+AI-powered lead intake and missed-call recovery system built for trades and service businesses.
 
-* Hostinger cloud-hosted n8n
-* modular AI workflows
-* reusable AI engines
-* normalization pipelines
-* orchestration systems
-* AI reranking systems
+### Key Areas
 
----
+- Voice AI
+- Lead Qualification
+- CRM Automation
+- Workflow Orchestration
+- Customer Communication
+- Business Process Automation
 
-### CRM & Marketing Automation
+### Detailed Case Study
 
-Integrated:
-
-* GoHighLevel (GHL)
-* Resend
-* automated email systems
-* onboarding workflows
-* lifecycle automations
-* customer engagement pipelines
+[View Full Project Documentation](./projects/tradie-web-mate.md)
 
 ---
 
-### Infrastructure & Security
+## Construction Operations Reporting System
 
-Managed using:
+Operational reporting and tracking system developed within an active construction environment to improve equipment visibility, maintenance monitoring, fuel tracking, and project cost reporting.
 
-* Hostinger
-* GitHub
-* Bitwarden
-* Supabase
-* Cloud-hosted infrastructure
-* Google reCATPCHA v3
+### Key Areas
 
----
+- Equipment Utilization Reporting
+- Fuel Monitoring & Liquidation
+- Preventive Maintenance Monitoring
+- Equipment Breakdown Tracking
+- Project Cost Tracking
+- Operational Visibility
+- Cross-Department Coordination
 
-# Technologies Used
+### Detailed Case Study
 
-## AI & Automation
-
-* OpenAI API
-* OpenRouter API
-* n8n (Hostinger Cloud-hosted)
-* AI reranking systems
-* semantic retrieval systems
-* embeddings pipelines
+[View Full Project Documentation](./projects/construction-reporting-system.md)
 
 ---
 
-## Voice & Communication
+# Core Skills
 
-* ElevenLabs API
-* Resend
-* GoHighLevel (GHL)
+## Business Operations
+
+- Workflow Analysis
+- Process Improvement
+- Operations Management
+- Reporting Systems
+- KPI Tracking
+- SOP Development
+- Documentation
+- Process Mapping
+
+## Automation & AI
+
+- n8n
+- OpenAI
+- Claude
+- OpenRouter
+- AI Agents
+- Voice AI
+- Workflow Automation
+- Workflow Orchestration
+- Prompt Engineering
+
+## Development & Deployment
+
+- Cursor
+- Git
+- GitHub
+- Lovable
+- React
+- TypeScript
+- Vercel
+- JavaScript
+
+## Data & Infrastructure
+
+- Supabase
+- PostgreSQL
+- Vector Databases
+- Semantic Search
+- Embeddings
+- Cloud-Based Deployments
+
+## Integrations
+
+- REST APIs
+- Webhooks
+- Third-Party SaaS Integrations
+- CRM Integrations
+- Marketing Automation Integrations
+
+## Business Systems
+
+- GoHighLevel (GHL)
+- HubSpot
+- Airtable
+- Notion
+- Google Workspace
+- Microsoft Excel
 
 ---
 
-## Frontend
+# Industries & Experience
 
-* React
-* TypeScript
-* Lovable
-* GitHub
-
----
-
-## Database & Memory
-
-* Supabase
-* PostgreSQL
-* Supabase Vector Store
+- Construction & Trades
+- Hospitality & Travel
+- Service-Based Businesses
+- CRM & Customer Operations
+- Content & Marketing Operations
 
 ---
 
-## APIs & Services
+# Currently Exploring
 
-* SerpAPI
-* Google Hotels
-* Google Flights
-* Google Maps
-* Mapbox APIs
-* Booking-related APIs
+- Agentic Workflows
+- Multi-Agent Systems
+- MCP Integrations
+- AI-Powered CRM Systems
+- AI Operations for Construction & Service Businesses
+- Advanced Workflow Orchestration
 
 ---
 
-# Portfolio Goals
+# Professional Philosophy
 
-This repository showcases my experience in:
+Technology should support operations—not complicate them.
 
-* AI automation
-* conversational AI
-* Voice AI systems
-* workflow orchestration
-* CRM implementation
-* AI-powered SaaS development
-* semantic memory systems
-* personalization engines
-* API integrations
-* automation infrastructure
+The best systems are practical, easy to adopt, and designed around how people actually work. My approach focuses on understanding business needs first, then implementing automation and AI solutions that create measurable improvements without unnecessary complexity.
 
-More projects and case studies will be added over time.
 ---
-# Contact
 
-For collaborations, freelance opportunities, or AI automation projects, feel free to connect.
+# Connect
 
-Email:
+### Email
 ```
 chrismedrano.pro@gmail.com
 ```
-WhatsApp:
+### LinkedIn
 ```
-+639972468119
-````
-LinkedIn:
+https://www.linkedin.com/in/christina-medrano-voiceaispecialist
 ```
-www.linkedin.com/in/christina-medrano-voiceaispecialist
+### GitHub
+```
+https://github.com/chrismedranopro
+```
+---
+
+### Portfolio Structure
+
+```
+portfolio/
+│
+├── README.md
+│
+├── projects/
+│   ├── structureseal-crm.md
+│   ├── travelbuddy.md
+│   ├── tradie-web-mate.md
+│   └── construction-reporting-system.md
+│
+├── assets/
+│   ├── structureseal/
+│   ├── travelbuddy/
+│   ├── tradie-web-mate/
+│   └── construction-reporting/
+│
+├── diagrams/
+│
+└── workflows/
 ```
 
-# Author
-CHRISTINA MEDRANO
+---
 
-Voice AI Specialist • AI Automation Specialist
+**Christina Medrano**  
+*Operations, Automation & AI Systems Specialist*
