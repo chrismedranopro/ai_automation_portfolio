@@ -1,4 +1,5 @@
 # StructureSeal — AI Operations Platform Concept
+🌐 Live Prototype: https://structureseal-ai.vercel.app
 
 > A proposed AI-powered operations platform designed for construction and trade businesses to improve lead management, missed call recovery, quoting workflows, and operational visibility.
 
