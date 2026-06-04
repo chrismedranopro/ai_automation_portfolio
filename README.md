@@ -65,7 +65,7 @@ My experience spans construction operations, hospitality and travel technology, 
 |----------|----------|----------|
 | StructureSeal AI CRM | Construction | CRM & Workflow Design |
 | TravelBuddy | Hospitality & Travel | Conversational AI & Automation |
-| Tradie Web Mate | Trades & Services | Lead Automation |
+| Tradie Web Mate | Trades & Services | Missed-call & After-hours Lead Intake (Voice AI) |
 | Construction Operations Reporting System | Construction | Operations & Reporting |
 
 ---
