@@ -94,7 +94,7 @@ https://structureseal-ai.vercel.app/
 
 ### Detailed Case Study
 
-[View Full Project Documentation](./projects/structureseal-crm.md)
+[View Full Project Documentation]([./projects/structureseal-crm.md](https://github.com/chrismedranopro/ai_automation_portfolio/blob/d7cf0070fab2c55186f5cad534825f22f6cfbfc6/projects/structureseal-crm.md))
 
 ---
 
@@ -118,7 +118,7 @@ https://gotravelbuddy.app/
 
 ### Detailed Case Study
 
-[View Full Project Documentation](./projects/travelbuddy.md)
+[View Full Project Documentation]([./projects/travelbuddy.md](https://github.com/chrismedranopro/ai_automation_portfolio/blob/d7cf0070fab2c55186f5cad534825f22f6cfbfc6/projects/travelbuddy_voice_ai.md))
 
 ---
 
