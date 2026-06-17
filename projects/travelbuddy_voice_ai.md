@@ -1,4 +1,5 @@
 # TravelBuddy — AI-Powered Travel Companion
+## Personalized travel planning powered by AI orchestration, traveler memory, and specialized travel intelligence engines.
 
 🌐 **Live Application:** https://gotravelbuddy.app
 
@@ -67,6 +68,23 @@ As a result:
 
 ---
 
+# The Systems Problem
+
+Modern travel planning requires users to interact with multiple disconnected systems:
+
+- Flight platforms
+- Accommodation platforms
+- Maps
+- Weather services
+- Activity providers
+- Booking systems
+
+Each system operates independently, forcing travelers to manually aggregate information and make decisions.
+
+TravelBuddy was designed as an orchestration layer that consolidates travel intelligence into a single conversational experience.
+
+---
+
 # The Solution
 
 TravelBuddy was designed as a conversational travel companion that helps travelers:
@@ -80,6 +98,89 @@ TravelBuddy was designed as a conversational travel companion that helps travele
 - Maintain travel context across conversations
 
 Rather than functioning as a traditional search engine, TravelBuddy acts as an intelligent travel assistant capable of understanding user preferences and providing contextual guidance.
+
+---
+
+# Architecture Diagram
+
+User
+ ↓
+AI Orchestrator
+ ↓
+ ├── Accommodation Intelligence
+ ├── Flight Intelligence
+ ├── Activities Intelligence
+ ├── Weather Intelligence
+ ├── Navigation Intelligence
+ └── Memory System
+ ↓
+Personalized Recommendation Engine
+ ↓
+User Response
+
+---
+
+# Central AI Orchestrator
+
+At the core of TravelBuddy is a centralized orchestration engine responsible for:
+
+- Intent detection
+- Context management
+- Memory retrieval
+- Workflow routing
+- Response synthesis
+
+Rather than relying on a single AI model, TravelBuddy dynamically routes requests to specialized intelligence workflows based on traveler intent.
+
+This architecture allows the platform to scale horizontally by adding new intelligence modules without redesigning the entire system.
+
+---
+
+# Why TravelBuddy Instead of a General AI Assistant?
+
+General AI assistants provide information.
+
+TravelBuddy provides travel-specific intelligence.
+
+The platform combines:
+
+- Persistent traveler memory
+- Travel-specific workflows
+- Structured travel data
+- Booking awareness
+- Multi-source travel intelligence
+- Personalized recommendation logic
+
+This enables more relevant and contextual travel guidance than a general-purpose chatbot.
+
+---
+
+# Context Management Architecture
+
+One of the primary engineering challenges involved maintaining traveler context across:
+
+- Active conversations
+- Historical trips
+- User preferences
+- Booking information
+- Recommendation workflows
+
+TravelBuddy implements a memory-aware architecture that combines structured traveler profiles with semantic retrieval systems, allowing recommendations to remain personalized across sessions.
+
+---
+
+# Platform Scope
+
+Current architecture includes:
+
+- 5 specialized intelligence engines
+- Central orchestration workflow
+- Semantic memory system
+- CRM integration layer
+- User onboarding engine
+- Booking awareness system
+- Personalized recommendation engine
+- Multiple third-party API integrations
 
 ---
 
@@ -316,6 +417,20 @@ The orchestrator routes requests to specialized travel intelligence engines base
 
 ---
 
+# Future Roadmap
+
+The modular architecture was intentionally designed to support future intelligence modules, including:
+
+Visa Intelligence
+Transportation Intelligence
+Travel Insurance Intelligence
+Local Events Intelligence
+Currency Intelligence
+Booking Automation
+
+The objective is to evolve TravelBuddy from a travel planning assistant into a fully autonomous travel operations platform.
+
+---
 # Challenges & Lessons Learned
 
 ### Context Management
