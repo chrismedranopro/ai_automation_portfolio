@@ -109,6 +109,30 @@ Continuously improve processes using operational data, reporting, AI insights, a
 
 ---
 
+## BrightPath Operations Hub
+
+**Industry:** Home Energy Efficiency & Utility Rebate Programs
+
+Designed an AI Operating System for an energy efficiency program administrator, unifying lead pipeline, compliance/reimbursement tracking, AI-assisted estimating, and voice AI missed-call recovery into one operational command center.
+
+### Highlights
+
+- AI Operating System
+- Executive Dashboard
+- Compliance Tracking
+- AI-Assisted Estimating
+- Voice AI
+- Workflow Automation
+- Operational Intelligence
+
+🌐 Live Demo
+
+https://brightpath-ops-hub-demo.vercel.app
+
+➡️ [View Case Study](projects/brightpath-operations-hub.md)
+
+---
+
 ## AI Central Intelligence Hub
 
 **Industry:** Hospitality
