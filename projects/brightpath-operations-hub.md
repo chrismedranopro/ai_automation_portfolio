@@ -7,9 +7,9 @@
 
 ## Project Status
 
-This project was designed for a home energy efficiency program administrator that manages weatherization and HVAC upgrade projects funded through state utility rebate programs.
+This project was built as part of a client engagement for a home energy efficiency program administrator managing weatherization and HVAC upgrade projects funded through state utility rebate programs.
 
-Client-identifying details (business name, staff names, service area, and program name) have been replaced with placeholders for this portfolio; the interface, workflow design, and feature set reflect real engagement work. Sample data shown (homeowners, addresses, phone numbers, dollar figures) is entirely fictional demo content.
+To protect client confidentiality, identifying details — business name, staff names, service area, and program name — have been replaced with placeholders throughout this demo. The interface, workflow design, and feature set reflect the operating system built for the engagement.
 
 ---
 
