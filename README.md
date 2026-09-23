@@ -149,7 +149,11 @@ Designed an AI Operating System that unified operational knowledge, reporting, S
 - Workflow Automation
 - Hospitality Operations
 
-➡️ View Case Study
+🌐 Live Demo
+
+https://central-intelligence-hub-demo.vercel.app
+
+➡️ [View Case Study](projects/hospitality-central-intelligence-hub.md)
 
 ---
 
