@@ -1,397 +1,76 @@
 # Christina Medrano
+### AI & Operations Architect
 
-# AI & Operations Architect
+**Designing intelligent operating systems that help service businesses scale.**
 
-### Designing Intelligent Operating Systems That Help Service Businesses Scale.
+I turn fragmented workflows into connected business systems—combining operations architecture, workflow automation, AI agents, and practical reporting. My work focuses on construction and trades, energy efficiency, hospitality, and travel technology.
 
----
+**[Explore projects](#selected-work) · [How I work](#how-i-work) · [Get in touch](#contact)**
 
-## About
+> Better systems create better decisions.
 
-Growing businesses rarely struggle because they lack software.
+## What I help businesses solve
 
-They struggle because their operations, knowledge, and workflows become fragmented as they scale.
+- **Disconnected operations:** Connect intake, estimating, scheduling, field teams, and reporting into clearer workflows.
+- **Manual administration:** Automate repetitive steps while retaining validation, monitoring, and human approvals.
+- **Missed enquiries:** Design structured voice AI and lead-intake workflows with appropriate escalation.
+- **Limited visibility:** Build operational dashboards that surface priorities and support decisions.
 
-I design **AI Operating Systems** that connect people, processes, knowledge, and technology into one intelligent operational platform.
+## Selected work
 
-Rather than automating isolated tasks, I architect systems that improve operational visibility, standardize workflows, reduce manual work, and create scalable foundations for long-term growth.
+| Project | Focus | Status | Explore |
+| --- | --- | --- | --- |
+| **BrightPath Operations Hub** | Energy-efficiency contractor operations, estimating, compliance and intake | Client-engagement work; anonymized demonstration | [Case study](projects/brightpath-operations-hub.md) · [Demo](https://brightpath-ops-hub-demo.vercel.app) |
+| **Central Intelligence Hub** | Hospitality operations, revenue, labour, occupancy and AI reception | Client-engagement demonstration; representative data | [Case study](projects/hospitality-central-intelligence-hub.md) · [Demo](https://central-intelligence-hub-demo.vercel.app) |
+| **TravelBuddy** | Conversational travel planning, AI orchestration and traveler preferences | Founder-built product | [Case study](projects/travelbuddy_voice_ai.md) · [Application](https://gotravelbuddy.app) |
+| **StructureSeal AI CRM** | Contractor lead intake, quoting and operational workflows | Independent, uncommissioned prototype | [Case study](projects/structureseal-crm.md) · [Prototype](https://structureseal-ai.vercel.app) |
 
-My experience spans hospitality, construction, trades, travel technology, CRM systems, operational reporting, Voice AI, workflow automation, and AI-powered business intelligence.
+**Note:** Demos may use anonymized or illustrative data. A demonstration is not a claim of production deployment or independently verified performance outcomes.
 
----
-
-# The AI Operating System Framework™
-
-Every engagement follows a practical framework designed around business operations rather than technology.
+## How I work
 
 ```text
-DISCOVER
-    ↓
-STANDARDIZE
-    ↓
-ARCHITECT
-    ↓
-AUTOMATE
-    ↓
-OPTIMIZE
+Discover → Standardize → Architect → Automate → Optimize
 ```
 
-### Discover
+I begin by understanding how a business actually operates: who owns each handoff, where information gets lost, which decisions require human judgment, and what should be measured. Then I design the workflow, data model, integrations and safeguards before automating.
 
-Understand the business, operational workflows, customer journey, and current technology landscape.
+Reliable systems need more than a successful demo. I consider validation, exceptions, approval steps, monitoring, maintainability and documentation.
 
-### Standardize
+## Capabilities
 
-Design repeatable workflows, SOPs, reporting structures, and operational documentation.
+| Operations & design | Automation & AI | Applications & data |
+| --- | --- | --- |
+| Process mapping, SOPs, estimating workflows, field operations | n8n, APIs, webhooks, voice AI, LLM workflows | React, JavaScript, Supabase, PostgreSQL |
+| Operational reporting, KPI dashboards, coordination | Retell AI, workflow orchestration, knowledge retrieval | Vite, Tailwind CSS, Vercel, Google Workspace |
 
-### Architect
+## Background
 
-Design an AI Operating System tailored to the business, defining AI workforce roles, knowledge systems, integrations, and business intelligence.
+My approach grew out of hands-on construction operations work involving equipment utilization, fuel and maintenance monitoring, preventive maintenance scheduling, procurement coordination, cost tracking and reporting. That experience shaped my focus on practical systems that people can actually use.
 
-### Automate
+Today I apply that operational perspective to AI-assisted business applications, integrated workflows and decision-support dashboards.
 
-Implement AI agents, workflow automations, APIs, webhooks, and operational dashboards.
+## Project documentation
 
-### Optimize
+- [Energy-efficiency contractor operations hub](projects/brightpath-operations-hub.md)
+- [Hospitality central intelligence hub](projects/hospitality-central-intelligence-hub.md)
+- [TravelBuddy AI travel companion](projects/travelbuddy_voice_ai.md)
+- [StructureSeal contractor CRM prototype](projects/structureseal-crm.md)
 
-Continuously improve processes using operational data, reporting, AI insights, and feedback.
+The case studies describe the problem, architecture, system capabilities, implementation context and relevant limitations. Public demos are linked where available.
 
----
+## Video walkthroughs
 
-# Core Capabilities
+Long-form walkthroughs and technical architecture explanations are planned for YouTube. Links will be added as videos are published; no unpublished demos are represented as available.
 
-## Operations Architecture
+## Contact
 
-- Business Process Design
-- Workflow Mapping
-- SOP Development
-- Process Standardization
-- Operational Documentation
-- Cross-Functional Coordination
+I'm open to conversations about **AI operations architecture, workflow automation, voice AI, connected business systems**, and relevant long-term technical roles.
 
----
-
-## AI Workforce Design
-
-- AI Operating Systems
-- AI Assistants
-- Voice AI
-- Conversational AI
-- Internal Knowledge Assistants
-- Executive AI Dashboards
+- **Email:** [chrismedrano.pro@gmail.com](mailto:chrismedrano.pro@gmail.com)
+- **LinkedIn:** [Christina Medrano](https://www.linkedin.com/in/chrismedrano-ai-and-operations-architect)
+- **GitHub:** [chrismedranopro](https://github.com/chrismedranopro)
 
 ---
 
-## Automation Engineering
-
-- n8n
-- Make
-- Zapier
-- REST APIs
-- Webhooks
-- JSON
-- Workflow Orchestration
-
----
-
-## Business Intelligence
-
-- Executive Dashboards
-- KPI Reporting
-- Operational Visibility
-- Business Reporting
-- AI Insights
-- Decision Support
-
----
-
-# Featured Case Studies
-
----
-
-## BrightPath Operations Hub
-
-**Industry:** Home Energy Efficiency & Utility Rebate Programs
-
-Designed an AI Operating System for an energy efficiency program administrator, unifying lead pipeline, compliance/reimbursement tracking, AI-assisted estimating, and voice AI missed-call recovery into one operational command center.
-
-### Highlights
-
-- AI Operating System
-- Executive Dashboard
-- Compliance Tracking
-- AI-Assisted Estimating
-- Voice AI
-- Workflow Automation
-- Operational Intelligence
-
-🌐 Live Demo
-
-https://brightpath-ops-hub-demo.vercel.app
-
-➡️ [View Case Study](projects/brightpath-operations-hub.md)
-
----
-
-## AI Central Intelligence Hub
-
-**Industry:** Hospitality
-
-Designed an AI Operating System that unified operational knowledge, reporting, SOPs, AI assistants, workflow automation, and executive intelligence into one centralized platform.
-
-### Highlights
-
-- AI Workforce
-- Executive Dashboard
-- Operational Intelligence
-- Knowledge Management
-- Business Reporting
-- Workflow Automation
-- Hospitality Operations
-
-🌐 Live Demo
-
-https://central-intelligence-hub-demo.vercel.app
-
-➡️ [View Case Study](projects/hospitality-central-intelligence-hub.md)
-
----
-
-## Voice AI Revenue Protection System
-
-**Industry:** Hospitality & Service Businesses
-
-Designed Voice AI systems that manage after-hours reception, booking enquiries, missed-call recovery, structured lead intake, and automated notifications.
-
-### Highlights
-
-- Voice AI Receptionist
-- Lead Qualification
-- Booking Intake
-- Webhooks
-- CRM Integration
-- Automated Notifications
-
-➡️ View Case Study
-
----
-
-## StructureSeal AI CRM
-
-**Industry:** Construction
-
-Designed a construction-focused AI CRM combining lead management, AI-assisted intake, quoting, workflow automation, project tracking, reporting, and customer communication.
-
-### Highlights
-
-- CRM Architecture
-- Customer Journey
-- AI Lead Intake
-- Quote Workflows
-- Project Tracking
-- Dashboards
-
-🌐 Live Demo
-
-https://structureseal-ai.vercel.app/
-
-➡️ View Case Study
-
----
-
-## TravelBuddy
-
-**Industry:** Tourism & Hospitality
-
-AI-powered travel platform delivering conversational planning, semantic memory, personalized recommendations, and workflow automation.
-
-### Highlights
-
-- Conversational AI
-- Semantic Memory
-- Personalization
-- Workflow Automation
-- Travel Intelligence
-
-🌐 Live Demo
-
-https://gotravelbuddy.app/
-
-➡️ View Case Study
-
----
-
-## Construction Operations Reporting System
-
-**Industry:** Construction
-
-Designed reporting systems that improved equipment utilization, maintenance tracking, operational visibility, project monitoring, and executive reporting.
-
-### Highlights
-
-- Equipment Reporting
-- Preventive Maintenance
-- Fuel Monitoring
-- KPI Dashboards
-- Operational Reporting
-
-➡️ View Case Study
-
----
-
-# Technology Ecosystem
-
-### AI
-
-- OpenAI
-- Claude
-- Gemini
-- OpenRouter
-- Prompt Engineering
-- AI Agents
-- RAG
-- Semantic Search
-
----
-
-### Automation
-
-- n8n
-- Make
-- Zapier
-- APIs
-- Webhooks
-- Workflow Automation
-
----
-
-### Development
-
-- JavaScript
-- TypeScript
-- React
-- Tailwind CSS
-- Git
-- GitHub
-- Cursor
-
----
-
-### Data
-
-- Supabase
-- PostgreSQL
-- Vector Databases
-- Embeddings
-
----
-
-### Cloud
-
-- Vercel
-- Hostinger
-- Railway
-- GitHub
-
----
-
-### Business Systems
-
-- GoHighLevel
-- HubSpot
-- Google Workspace
-- Airtable
-- Notion
-
----
-
-# Industries
-
-- Hospitality
-- Hotels & Resorts
-- Travel Technology
-- Construction
-- Trades & Field Services
-- Service Businesses
-- CRM & Customer Operations
-
----
-
-# Current Focus
-
-I'm currently focused on designing **AI Operating Systems** for service businesses, combining:
-
-- AI Workforce Design
-- Operational Intelligence
-- Voice AI
-- Business Automation
-- Knowledge Management
-- Executive Dashboards
-- Internal AI Assistants
-- Multi-Agent Systems
-- AI-First Business Architecture
-
----
-
-# Philosophy
-
-> Technology should support operations—not complicate them.
-
-The best AI systems are built around how businesses actually operate.
-
-My approach begins with understanding people, processes, and operational goals before introducing automation or AI.
-
-The objective isn't simply to automate tasks.
-
-The objective is to build intelligent operating systems that allow businesses to scale with confidence.
-
----
-
-# Connect
-
-📧 **Email**
-
-```
-chrismedrano.pro@gmail.com
-```
-
-💼 **LinkedIn**
-```
-https://www.linkedin.com/in/chrismedrano-ai-and-operations-architect
-```
-💻 **GitHub**
-```
-https://github.com/chrismedranopro
-```
----
-
-# Repository Structure
-
-```text
-.
-├── README.md
-│
-├── framework/
-│   └── ai-operating-system-framework.md
-│
-├── case-studies/
-│   ├── central-intelligence-hub.md
-│   ├── voice-ai-revenue-protection.md
-│   ├── structureseal-ai-crm.md
-│   ├── travelbuddy.md
-│   └── construction-operations.md
-│
-├── blueprints/
-│   ├── ai-operating-system-blueprint.pdf
-│   └── digital-ecosystem-framework.pdf
-│
-├── diagrams/
-│
-├── assets/
-│
-└── workflows/
-```
-
----
-
-### *Building Intelligent Operating Systems That Help Service Businesses Scale.*
+*Better systems create better decisions.*
