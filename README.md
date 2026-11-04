@@ -20,12 +20,12 @@ I turn fragmented workflows into connected business systems—combining operatio
 
 | Project | Focus | Status | Explore |
 | --- | --- | --- | --- |
-| **BrightPath Operations Hub** | Energy-efficiency contractor operations, estimating, compliance and intake | Client-engagement work; anonymized demonstration | [Case study](projects/brightpath-operations-hub.md) · [Demo](https://brightpath-ops-hub-demo.vercel.app) |
+| **BrightPath Operations Hub** | Homeowner intake, contractor operations, AI qualification, compliance and estimating | Completed client implementation; anonymized public demo | [Case study](projects/brightpath-operations-hub.md) · [Demo](https://brightpath-ops-hub-demo.vercel.app) |
 | **Central Intelligence Hub** | Hospitality operations, revenue, labour, occupancy and AI reception | Client-engagement demonstration; representative data | [Case study](projects/hospitality-central-intelligence-hub.md) · [Demo](https://central-intelligence-hub-demo.vercel.app) |
 | **TravelBuddy** | Conversational travel planning, AI orchestration and traveler preferences | Founder-built product | [Case study](projects/travelbuddy_voice_ai.md) · [Application](https://gotravelbuddy.app) |
 | **StructureSeal AI CRM** | Contractor lead intake, quoting and operational workflows | Independent, uncommissioned prototype | [Case study](projects/structureseal-crm.md) · [Prototype](https://structureseal-ai.vercel.app) |
 
-**Note:** Demos may use anonymized or illustrative data. A demonstration is not a claim of production deployment or independently verified performance outcomes.
+**Note:** The energy-efficiency engagement also included a custom HTML homeowner landing page and intake form built in WordPress on Bluehost, with related Squarespace domain/subdomain configuration. Client identity and public page URL are withheld here pending portfolio-use authorization. Demos may use anonymized or illustrative data. A demonstration is not a claim of production deployment or independently verified performance outcomes.
 
 ## How I work
 
