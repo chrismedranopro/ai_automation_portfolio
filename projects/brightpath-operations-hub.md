@@ -1,209 +1,119 @@
-# BrightPath Operations Hub — AI Operating System for Energy Efficiency Program Administrators
-## A unified command center for lead pipeline, compliance tracking, AI-assisted estimating, and voice AI intake, built for a home energy efficiency contractor managing state utility-rebate program work.
+# BrightPath Operations Hub — Contractor Operations & AI Enablement
 
-🌐 **Live Demo:** https://brightpath-ops-hub-demo.vercel.app
+**Completed and deployed client implementation · Energy-efficiency contracting · Public-facing project alias**
 
----
+[View the illustrative demo](https://brightpath-ops-hub-demo.vercel.app)
 
-## Project Status
+> **Confidentiality note:** BrightPath is a portfolio alias for a real client engagement. The demo is a separate, sanitized illustration, not a public connection to the client's production environment. Client identity, records, credentials, pricing, and proprietary implementation details are intentionally omitted. Features visible in the demo should not be interpreted as the production scope.
 
-This project was built as part of a client engagement for a home energy efficiency program administrator managing weatherization and HVAC upgrade projects funded through state utility rebate programs.
+## At a glance
 
-To protect client confidentiality, identifying details — business name, staff names, service area, and program name — have been replaced with placeholders throughout this demo. The interface, workflow design, and feature set reflect the operating system built for the engagement.
+I designed and delivered an operations foundation for a US residential energy-efficiency contractor. The engagement connected homeowner intake, lead review, project visibility, compliance tracking, and AI-assisted estimate preparation, while keeping staff responsible for consequential decisions.
 
----
+**Delivery status:** Phase 1 implementation delivered and operating in production; staff training completed. This is client work, not a speculative concept or an uncommissioned prototype.
 
-# Overview
+## The operational challenge
 
-BrightPath Operations Hub is an AI-powered operations platform designed to give a small energy efficiency contractor a single command center across the full project lifecycle — from lead intake through compliance-gated reimbursement.
+Contractor teams handling energy-efficiency rebate work often coordinate across email, field tools, document storage, spreadsheets, and program portals. Disconnected handoffs make it difficult to prioritize new enquiries, see missing paperwork, and prepare consistent estimates.
 
-The platform combines:
+The objective was not to replace every tool. It was to create a practical operating layer that made existing workflows easier to follow, monitor, and maintain.
 
-- Executive dashboard with AI-generated daily briefings
-- Action Center — a unified, priority-ranked task queue
-- Lead pipeline management
-- AI-assisted estimate generation
-- Compliance/reimbursement document tracking
-- Voice AI missed-call recovery
-- Subcontractor and work order coordination
-- SOP and AI-agent status visibility
+## What I delivered
 
-into one operational system.
+### 1. Homeowner landing page and intake
 
----
+- Built a dedicated energy-efficiency landing page and homeowner intake experience.
+- Used custom HTML within WordPress, hosted on Bluehost, with WPForms for structured submissions.
+- Configured related domain/subdomain settings through Squarespace.
+- Designed the intake as the customer-facing entry point to the wider operational workflow.
 
-# Why I Built This
+### 2. Centralized Operations Hub
 
-Energy efficiency contractors sit at the intersection of field operations, compliance-heavy government/utility reimbursement programs, and homeowner-facing customer service — while typically running on spreadsheets, email, and disconnected point tools.
+- Delivered a staff-facing application for tracking leads, projects, operational priorities, compliance, and estimating work.
+- Created clearer visibility into ownership, status, and tasks requiring staff attention.
 
-That creates a specific set of failure modes:
+### 3. Lead pipeline and AI-assisted qualification
 
-- Reimbursement dollars stuck behind missing compliance documents, discovered too late
-- Missed calls after hours that represent real revenue, with no structured recovery process
-- Estimating bottlenecked on a single person's availability
-- No single view of which projects are actually at risk this week
+- Connected incoming enquiries to a structured lead workflow.
+- Supported review of relevant documentation, service-area suitability, and program eligibility.
+- Kept AI recommendations advisory, with staff retaining responsibility for qualification decisions.
 
-BrightPath Operations Hub was designed as a practical response: surface what's at risk today, automate the mechanical parts of estimating and intake, and keep a human firmly in the loop for anything customer-facing or compliance-sensitive.
+### 4. Compliance tracking
 
----
+- Organized project document requirements and status tracking.
+- Supported staff visibility into missing items, deadlines, and follow-up work.
 
-# Business Problem
+### 5. AI-assisted estimating
 
-Small energy efficiency contractors managing utility/state rebate program work face:
+- Designed workflows to organize field information and prepare estimate drafts for review.
+- Preserved estimator and authorized staff approval before homeowner-facing communication.
+- Integrated the estimating process into the broader operational workflow rather than treating AI output as an automatic final answer.
 
-## Compliance-Gated Revenue
+### 6. Automation, training, and handoff
 
-Reimbursement claims are only paid once every required document is uploaded and verified. A single missing form can hold up thousands of dollars with a hard deadline attached.
+- Implemented workflow automation across intake, coordination, document processing, and estimating.
+- Delivered staff guidance and training as part of the implementation.
+- Built around existing client tools where appropriate, with monitoring and human-control safeguards.
 
-## After-Hours Missed Calls
-
-Field crews and office staff can't answer every call. Emergency situations (e.g., a flooded basement) called in overnight need same-day triage, not a voicemail that gets checked Monday.
-
-## Manual, Bottlenecked Estimating
-
-Turning a completed site visit into a homeowner-ready estimate is manual, slow, and dependent on one estimator's bandwidth.
-
-## Fragmented Operational Visibility
-
-Owners can't easily answer "what's actually at risk this week" without manually cross-referencing several systems.
-
----
-
-# Proposed Solution
-
-An AI Operating System that connects field data collection, AI reasoning, and human approval into a single workflow:
+## High-level architecture
 
 ```text
-Field Site Visit (Fieldwire)
-      ↓
-Automated Webhook (n8n)
-      ↓
-AI Review / Estimate Draft (Claude)
-      ↓
-Human Review & Approval
-      ↓
-Operations Hub (single source of truth)
+Homeowner enquiry / existing intake channels
+                    ↓
+       Structured lead workflow
+                    ↓
+        Staff qualification review
+                    ↓
+      Project and field coordination
+                    ↓
+       Document / compliance tracking
+                    ↓
+       AI-assisted estimate drafting
+                    ↓
+        Human review and approval
+                    ↓
+       Homeowner communication
 ```
 
-Every AI-generated output — estimates, compliance risk flags, missed-call summaries — is designed to land in front of a human for approval before it reaches a homeowner or a compliance submission.
+This is a conceptual overview, not a reproduction of the client's internal architecture or proprietary workflow configuration.
 
----
+## Technology used
 
-# Core Features
+| Layer | Technology |
+| --- | --- |
+| Public landing page and intake | WordPress, custom HTML, WPForms, Bluehost |
+| Domain/subdomain configuration | Squarespace |
+| Staff-facing application | Next.js, Vercel |
+| Application data and authentication | Supabase |
+| Workflow orchestration | Self-hosted n8n |
+| AI-assisted processing | OpenRouter with Claude |
+| Existing business-tool integration | Client-authorized communication, field, document and signing systems |
 
----
+No Zapier or GoHighLevel implementation is claimed.
 
-## Executive Dashboard
+## Design principles
 
-An AI-generated daily briefing surfaces the handful of things that actually need owner attention today, instead of requiring a manual scan across systems.
+- **Start with the operating process:** Map ownership and handoffs before automating.
+- **Keep people in control:** AI assists with qualification and drafts; staff review consequential outputs.
+- **Work with existing systems:** Connect established tools rather than forcing unnecessary replacements.
+- **Design for handoff:** Provide clear staff workflows, training, and operational documentation.
+- **Respect confidentiality:** Share an illustrative public demonstration without exposing client records or proprietary materials.
 
-### Highlights
+## Outcomes and limitations
 
-- Natural-language daily briefing generated from live operational data
-- Revenue-at-risk and reimbursement-at-risk summaries
-- Cross-system activity feed (field, compliance, estimating, voice AI)
+**Verified project milestone:** The Phase 1 system was delivered and put into production, with staff training completed.
 
----
+The engagement established a connected operational foundation for homeowner intake, lead handling, compliance visibility, and estimate preparation. No specific time savings, revenue gains, reimbursement improvements, or estimate-accuracy percentages are claimed here because public, independently verified before-and-after results are not available.
 
-## Action Center
+The linked BrightPath demo is an illustrative portfolio environment. It may contain features, sample records, or interface elements beyond the actual Phase 1 client scope.
 
-A unified, priority-ranked task queue that replaces "check five different places to find out what's urgent."
+## My role
 
-### Highlights
+**AI & Operations Architect:** workflow discovery, system architecture, application and automation implementation, integration design, human-review safeguards, operational documentation, and handoff.
 
-- Deadline-aware prioritization
-- One-click resolution actions per task
-- Consolidated view across compliance, estimating, and dispatch
+## Explore
 
----
+- [Illustrative BrightPath demo](https://brightpath-ops-hub-demo.vercel.app)
+- [Portfolio overview](../README.md)
 
-## Lead & Project Pipeline
-
-A kanban-style pipeline tracking every project from intake through closeout.
-
-### Information Tracked
-
-- Stage, risk status, and compliance percentage
-- Reimbursement value and days-to-deadline
-- Assigned owner
-
----
-
-## AI-Assisted Estimate Generation
-
-Site visit data flows automatically into an AI-drafted estimate, with a confidence score and a one-click human approval step before anything reaches a homeowner.
-
----
-
-## Compliance & Reimbursement Tracking
-
-Per-project compliance checklists tied to real program document requirements, with automatic risk flags when a deadline is approaching and documents are still missing.
-
----
-
-## Voice AI Missed-Call Recovery
-
-After-hours calls are captured, triaged, and summarized automatically, with emergency situations flagged for immediate human callback rather than waiting for a morning voicemail check.
-
----
-
-## Subcontractor & Work Order Coordination
-
-Automated work order dispatch and renewal reminders (insurance, licensing) for the subcontractor network, with escalation when confirmations don't come back in time.
-
----
-
-## SOP & AI Agent Status
-
-A living view of which standard operating procedures are current, which need updates as program requirements change, and the live health/success rate of each AI agent running in the system.
-
----
-
-# Workflow Design Principles
-
-> AI drafts, humans decide — especially anywhere the output reaches a homeowner or a compliance submission.
-
-### Design Objectives
-
-- Protect reimbursement revenue by surfacing compliance risk early
-- Recover after-hours revenue opportunities that would otherwise be lost
-- Remove manual bottlenecks from estimating without removing human judgment
-- Give an owner a single, trustworthy view of operational risk
-
----
-
-# Technology Stack
-
-### Frontend
-
-- HTML / CSS / JavaScript (self-contained single-page interface)
-
-### AI & Automation
-
-- Claude (estimate drafting, AI briefings, risk analysis)
-- n8n (workflow orchestration, webhooks)
-- Fieldwire (field data source)
-
-### Deployment
-
-- Vercel
-
----
-
-# Key Takeaways
-
-This project demonstrates my approach to designing AI Operating Systems for operationally complex, compliance-heavy service businesses: start from where revenue actually gets stuck, keep humans in control of anything customer- or compliance-facing, and use AI to remove the mechanical bottlenecks in between.
-
----
-
-# Links
-
-🌐 Live Demo: https://brightpath-ops-hub-demo.vercel.app
-
----
-
-## Project Classification
-
-**Type:** AI Operating System / Operations Platform
-**Industry:** Home Energy Efficiency & Utility Rebate Programs
-**Focus Areas:** Workflow Automation, AI-Assisted Estimating, Compliance Tracking, Voice AI, Operational Intelligence, Executive Dashboards
+*Client identity and identifying details are intentionally withheld pending public-use authorization.*
